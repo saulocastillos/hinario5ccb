@@ -13,12 +13,16 @@ ou mande e-mail para:
 aplicativosccb@gmail.com
 
 ---------
-### Como contribuir
+### Features que  ❤️ gostariamos já sugeridas pela comunidade.
 
-#### Features que  ❤️ gostariamos já sugeridas pela comunidade.
 1. Tradução para Inglês, Espanhol, Italiano, Alemã;
 2. 1º Pentagrama de cada hino, igual ao hinário físico;
 3. Interligar as vogais para auxiliar o canto.
+4. Versão para iOS
+
+#### Como contribuir
+
+Se você tem base de dados dos hinos em qualquer dos idiomas, pode digitar ou pense numa maneira de contribuir com as features acima por favor entre em contato através do e-mail aplicativosccb@gmail.com.
 
 ---------
 
