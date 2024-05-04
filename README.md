@@ -27,9 +27,9 @@ Precisamos da base de dados de hinos ou de algúem que se habilite a digitar os 
 
 Precisamos da base de dados de hinos com as vogais interligadas ou corrigir a base atual.
 
-#### 3. Versão para iOS
+#### ~~3. Versão para iOS~~
 
-Precisamos usar um computador iMac, um smartphone iPhone e da paciência do dono para finalizar o desenvolvimento, mesmo que por conexão remota.
+~~Precisamos usar um computador iMac, um smartphone iPhone e da paciência do dono para finalizar o desenvolvimento, mesmo que por conexão remota.~~
 
 #### Como contribuir
 
